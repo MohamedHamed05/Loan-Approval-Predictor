@@ -58,8 +58,3 @@ To make predictions using the pretrained model:
     python predict.py --input_csv path/to/applications.csv --output_csv path/to/predictions.csv \
         [--model_path path/to/model.pkl] [--preprocessor_path path/to/preprocessor.pkl]
    ```
-**Example Visualizations**:
-   - *Feature Importance Plot*: Highlights key predictors like `loan_int_rate` and `loan_grade`.
-     ![Feature Importance Plot](screenshots/feature_importance.png)
-   - *ROC Curve*: Shows the model's ability to distinguish approved vs. denied loans.
-     ![ROC Curve](screenshots/roc_curve.png) 
