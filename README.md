@@ -16,7 +16,7 @@ This project was motivated by the need to automate and improve loan approval pro
 - Effective techniques for preprocessing financial datasets, including outlier capping and feature transformation to handle non-normal distributions and extreme outliers.
 - The importance of model selection and hyperparameter tuning, particularly in optimizing XGBoost for high AUC-ROC and balanced F1-score.
 - How to interpret and visualize feature importance to identify key drivers of loan approval, such as interest rate and loan-to-income ratio.
-- Strategies for addressing class imbalance using SMOTE, improving model performance on minority classes.
+- Strategies for addressing class imbalance like SMOTE, improving model performance on minority classes.
 - The value of modular code design and documentation in creating reproducible machine learning pipelines.
 
 ## Model Performance
