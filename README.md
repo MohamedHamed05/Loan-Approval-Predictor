@@ -53,7 +53,6 @@ To make predictions using the pretrained model:
    
 ## How to Use
   **Make Predictions with the Saved Model**:
-   Use the pre-trained model for new loan applications:
    ```bash
     python predict.py --input_csv path/to/applications.csv --output_csv path/to/predictions.csv \
         [--model_path path/to/model.pkl] [--preprocessor_path path/to/preprocessor.pkl]
