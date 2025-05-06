@@ -10,7 +10,7 @@ This project was motivated by the need to automate and improve loan approval pro
 - **Problem Solved**: Reduces manual effort in loan assessments and minimizes approval errors by predicting outcomes based on data-driven insights.
 - **Technologies Used**: Python, pandas, scikit-learn, XGBoost, matplotlib, and seaborn were chosen for their robust data processing, modeling, and visualization capabilities.
 - **Challenges Faced**: Handling skewed numerical features and class imbalance in the dataset required advanced preprocessing techniques like PowerTransformer and SMOTE.
-- **Future Features**: Adding a web interface for user input, and exploring neural network models.
+- **Future Features**: ~~Adding a web interface for user input~~ and exploring neural network models.
 
 **What I Learned**:
 - Effective techniques for preprocessing financial datasets, including outlier capping and feature transformation to handle non-normal distributions and extreme outliers.
